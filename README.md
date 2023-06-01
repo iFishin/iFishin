@@ -1,3 +1,5 @@
+![whitefish_clear](./images/whitefish_clear.png)
+
 ## 🐟Fishing is Tapping here!
 
 ~~~console
