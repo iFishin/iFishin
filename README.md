@@ -1,4 +1,4 @@
-![whitefish_clear](./images/whitefish_clear.png)
+<img src="./images/fish_clear.png" alt="whitefish_clear" style="zoom:50%;" />
 
 ## 🐟Fishing is Tapping here!
 
