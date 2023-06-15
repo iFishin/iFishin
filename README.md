@@ -1,6 +1,6 @@
-<img src="./images/fish_clear.png" alt="whitefish_clear" />
+<img src="./images/fish_clear.png" alt="whitefish_clear" align="middle" />
 
-## 🐟Hi, here!👋
+# 🐟Hi, here!👋
 
 ![iFishin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifishin&show_icons=true&theme=tokyonight)
 
