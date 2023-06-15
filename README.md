@@ -2,6 +2,9 @@
 
 ## 🐟Fishing is Tapping here!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ~~~console
  ______      ________      ______       ______       __    __      ______      __    __       ______  
 |      \    |        \    |      \     /      \     |  \  |  \    |      \    |  \  |  \     /      \ 
