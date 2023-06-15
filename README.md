@@ -1,6 +1,12 @@
-<img src="./images/fish_clear.png" alt="whitefish_clear" style="zoom: 25%;" />
+<img src="./images/fish_clear.png" alt="whitefish_clear" />
 
-## 🐟Fishing is Tapping here!
+## 🐟Hi, here!👋
+
+![iFishin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifishin&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifishin&layout=compact&theme=tokyonight)
+
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
