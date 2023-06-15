@@ -1,4 +1,4 @@
-<img src="./images/fish_clear.png" alt="whitefish_clear" style="zoom:50%;" />
+<img src="./images/fish_clear.png" alt="whitefish_clear" style="zoom: 25%;" />
 
 ## 🐟Fishing is Tapping here!
 
