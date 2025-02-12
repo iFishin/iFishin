@@ -25,6 +25,7 @@
   <div align="center">
   </div>
 </div>
+
 ![iFishin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ifishin&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifishin&layout=compact&theme=tokyonight)
