@@ -7,7 +7,7 @@
 </div>
 </div>
 
-- 🤔 &nbsp; Why named 'iFishin'? Because I love eating the head of fish!!! You can also find my another name '爱吃鱼头' in Chinese.
+- 🤔 &nbsp; Why 'iFishin'? Well, I absolutely love eating fish heads! That's why my Chinese name is '爱吃鱼头'
 - ✍️ &nbsp; What word best describes me? I would say "Flowing" - Like a flow of water, I adapt to changes and challenges with ease.
 - 🚀 &nbsp; How could I will be a better version of myself? By continuously learning and embracing new experiences.
 - 🌱 &nbsp; When is the best time to plant a tree? The best time to plant a tree was 20 years ago. The second best time is now.
