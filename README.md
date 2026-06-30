@@ -4,25 +4,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ifishin&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-<!-- About Me + GIF 双栏布局 -->
 
-<table>
-  <tr>
-    <td width="55%">
-      <h3>👨🏻‍💻 About Me</h3>
+<img align="right" alt="Coding gif" width="30%" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-      <ul>
-        <li>🤔 &nbsp; Why <b>iFishin</b>? Well, I absolutely love eating fish heads! That's why my Chinese name is <b>"爱吃鱼头"</b></li>
-        <li>✍️ &nbsp; What word best describes me? I would say <b>"Flowing"</b> — like water, I adapt to changes and challenges with ease.</li>
-        <li>🚀 &nbsp; How can I be a better version of myself? By continuously learning and embracing new experiences.</li>
-        <li>🌱 &nbsp; When is the best time to plant a tree? The best time was 20 years ago. The second best time is <b>now</b>.</li>
-      </ul>
-    </td>
-    <td width="45%" align="center">
-      <img alt="Coding gif" width="90%" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-    </td>
-  </tr>
-</table>
+### 👨🏻‍💻 About Me
+
+- 🤔 &nbsp; Why **iFishin**? Well, I absolutely love eating fish heads! That's why my Chinese name is **"爱吃鱼头"**
+- ✍️ &nbsp; What word best describes me? I would say **"Flowing"** — like water, I adapt to changes and challenges with ease.
+- 🚀 &nbsp; How can I be a better version of myself? By continuously learning and embracing new experiences.
+- 🌱 &nbsp; When is the best time to plant a tree? The best time was 20 years ago. The second best time is **now**.
 
 <!-- Languages and Tools 技术徽章 -->
 <h3>💻 Languages and Tools</h3>
