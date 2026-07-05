@@ -62,8 +62,7 @@
     <tr>
       <td align="center">
         <a href="https://i.ifishin.top/" style="text-decoration: none; font-weight: bold;">
-          <img src="./images/greenfish_clear.png" alt="鱼传尺素" width="32" height="32"><br>
-          鱼传尺素-我的数字花园
+          <img src="https://i.ifishin.top/static/badge.svg" alt="鱼的后花园">
         </a>
       </td>
       <td align="center">
